@@ -1,0 +1,26 @@
+body {
+    background-image: url(images/sky.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'PT Serif', serif;
+}
+
+img{
+    height:40vmax;
+}
+
+h1 {
+    background: linear-gradient(90deg, rgba(2,0,36,0.5) 0%, rgba(9,9,121,0.5) 23%, rgba(0,212,255,0.5) 100%);
+    background-size: cover;
+    font-size: 3vw !important;
+    text-align: center;
+    padding: 2vmin;
+    text-shadow: 2px 2px #0055ff;
+    color: rgb(210, 214, 224) !important;
+}
+
+.cap, h2{
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    font-size: 1.5vw;
+}
